@@ -18,7 +18,7 @@ jobs:
       # that ephemeral container have steps to execute, hence name those steps and use run: run has the command
     steps:
       - name: say-hello to new
-        run: echo"Hello brother"
+        run: echo "Hello brother"
 # Steps
 # Should be inside the job
 
